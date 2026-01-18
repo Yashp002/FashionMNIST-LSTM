@@ -14,8 +14,4 @@ Numpy
 Pandas
 Jupyter Notebook
 
-## Quickstart
-```bash
-pip install -r requirements.txt
-python train.py
-streamlit run demo.py
+
